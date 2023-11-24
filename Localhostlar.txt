@@ -1,0 +1,7 @@
+/** Burada Apilerin Localhost Bilgilerine Eriþim Saðlanacak. **/
+/** /swagger/index.html **/
+
+
+Course Localhost Address = "http://localhost:7179"
+--------------------------------------------------------------
+
