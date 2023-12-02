@@ -4,4 +4,8 @@
 
 Course Localhost Address = "http://localhost:7179"
 --------------------------------------------------------------
+Course Localhost Address = "http://localhost:7180"
+--------------------------------------------------------------
+IdentityServer Localhost Address = "http://localhost:5001"
+--------------------------------------------------------------
 
